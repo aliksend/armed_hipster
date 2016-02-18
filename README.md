@@ -4,11 +4,11 @@
 
 This is template application for Phoenix
 
-It include preinstalled and configured bower, installed jquery, bootstrap and angular with it
+It include preinstalled and configured [bower](https://github.com/bower/bower), installed jquery, bootstrap and angular with it
 
-Example of i18n using gettext (added russian language, just go to [localhost:4000?lang=ru](http://localhost:4000/?lang=ru))
+[Example of i18n using gettext](http://sevenseacat.net/2015/12/20/i18n-in-phoenix-apps.html) (added russian language, just go to [localhost:4000?lang=ru](http://localhost:4000/?lang=ru))
 
-Added support for slim templates, stylus and less stylesheets and coffeescript
+Added support for [slim](https://github.com/slime-lang/phoenix_slime) templates, [stylus](https://github.com/brunch/stylus-brunch) and [less](https://github.com/brunch/less-brunch) stylesheets (with [postcss](https://github.com/iamvdo/postcss-brunch)' [autoprefixer](https://github.com/postcss/autoprefixer) and [minifier](https://github.com/hail2u/node-csswring)) and [coffeescript](https://github.com/brunch/coffee-script-brunch) (with [linter](https://github.com/brunch/coffeelint-brunch))
 
 ## How to use
 
